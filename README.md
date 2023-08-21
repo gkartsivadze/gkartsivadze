@@ -2,9 +2,11 @@
 
 I'm a front-end developer and tech enthusiast. My passion lies in creating efficient and elegant solutions to complex problems. I love to learn and explore new technologies.
 
+<div style="text-align: center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=gkartsivadze&theme=gruvbox&border_radius=3&card_width=500" alt="GitHub Streak">
   </a>
+</div>
 
 ### 💼 What I'm up to
 - Working on self-development.
