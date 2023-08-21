@@ -1,7 +1,6 @@
 # 👋 GIORGI KARTSIVADZE
 
-📞 (+995) 568 89 34 11 • 📧 giorgi.kartsivadze.2001@gmail.com
-[LinkedIn](https://linkedin.com/in/gkartsivadze16) • [GitHub](https://github.com/gkartsivadze)
+📞 (+995) 568 89 34 11 • 📧 giorgi.kartsivadze.2001@gmail.com • [LinkedIn](https://linkedin.com/in/gkartsivadze16)
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=gkartsivadze&theme=gruvbox&border_radius=3&card_width=1000)](https://git.io/streak-stats)
