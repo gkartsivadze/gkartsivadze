@@ -1,19 +1,19 @@
-### Hi there 👋
+## Hey, I'm Jane Smith! 🌟
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+I'm a front-end developer and tech enthusiast. My passion lies in creating efficient and elegant solutions to complex problems. I love to learn and explore new technologies.
 
-<!--
-**gkartsivadze/gkartsivadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 What I'm up to
+- Working on self-development.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- Front-end: HTML, CSS, JavaScript, React, Redux, jQuery;
+- Preprocessors: SCSS;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects I'm Proud Of
+- [Project 1: E-Commerce]([https://github.com/janesmith/ecommerce](https://furniture-advanced.vercel.app/)) - Built a feature-rich e-commerce website with React, allowing users to browse and purchase products.
+- [Project 2: Food Receipt App]([https://github.com/janesmith/blogging-api](https://food-recipe-react-sooty.vercel.app/)) - Developed a webpage with random receipt, adding/removing favourite receipts, filtering.
+- [Project 3: Financial]([https://github.com/janesmith/data-dashboard](https://gkartsivadze.github.io/projects/financial/)) - Recreated Figma design into code
+
+### 📬 Reach Me
+- LinkedIn: [Giorgi Kartsivadze](https://linkedin.com/in/gkartsivadze16)
+- Website: [Portfolio](portfolio-gkartsivadze.vercel.app)
