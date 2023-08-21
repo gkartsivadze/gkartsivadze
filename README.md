@@ -1,4 +1,4 @@
-## Hey, I'm Jane Smith! 🌟
+## Hey, I'm Giorgi Kartsivadze! 🌟
 
 I'm a front-end developer and tech enthusiast. My passion lies in creating efficient and elegant solutions to complex problems. I love to learn and explore new technologies.
 
