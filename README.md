@@ -17,27 +17,27 @@
 
 ## 🚧 Personal Projects
 
-### Furniture Live Preview
+### Furniture [Live](https://https://furniture-advanced.vercel.app/)
 - 🛒 Cart manipulation.
 - 🔍 Product filtering by category, brand, and price.
 
-### Artopia Live Preview
+### Artopia [Live](https://artopia-react-git-main-gkartsivadze.vercel.app/)
 - 🎨 Algorithm to arrange cards based on viewport height in statistics section.
 - 🖼️ Image Carousel created using jQuery.
 
-### Food Receipt App Live Preview
+### Food Receipt App [Live](https://food-recipe-react-sooty.vercel.app/)
 - 🍔 Recipe search, filtering, and local storage for saved items.
 - ⚛️ Developed with ReactJS, Redux, and API integration.
 
-### Space Tourism Live Preview
+### Space Tourism [Live](https://gkartsivadze.github.io/frontendmentor/space/)
 - 🚀 Intro animations using AOS.js (Animation On Scroll).
 - 🖼️ Resolved image loading issue with JavaScript Promises.
 
-### FinanceFlow Live Preview
+### FinanceFlow [Live](https://gkartsivadze.github.io/projects/financial/)
 - 💰 Optimized code by creating separate Header and Footer components shared across 6 pages.
 - ✉️ Functional contact form using email.js.
 
-### Multi-page Form Live Preview
+### Multi-page Form [Live](https://gkartsivadze.github.io/frontendmentor/multi-step-form/)
 - 📝 Navigation between registration sections using radio buttons and display switching.
 
 ## 🌟 Experience
