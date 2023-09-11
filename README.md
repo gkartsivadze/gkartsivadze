@@ -2,9 +2,6 @@
 
 📞 (+995) 568 89 34 11 • 📧 giorgi.kartsivadze.2001@gmail.com • [LinkedIn](https://linkedin.com/in/gkartsivadze16)
 
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=gkartsivadze&theme=gruvbox&border_radius=3&card_width=1000)](https://git.io/streak-stats)
-
 ## 🚀 Summary
 
 🌟 I am a self-motivated Front-end Developer with a strong foundation in coding and problem-solving. My projects reflect both my technical growth and personal development. Committed to continuous learning, I stay updated with the latest trends and technologies in the industry. My primary focus is on building a career in Front-end Development.
