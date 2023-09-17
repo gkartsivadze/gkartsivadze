@@ -1,14 +1,14 @@
 # 👋 GIORGI KARTSIVADZE
 
-📞 (+995) 568 89 34 11 • 📧 giorgi.kartsivadze.2001@gmail.com • [LinkedIn](https://linkedin.com/in/gkartsivadze16)
+📧 giorgi.kartsivadze.2001@gmail.com • [LinkedIn](https://linkedin.com/in/gkartsivadze16)
 
 ## 🚀 Summary
 
-🌟 I am a self-motivated Front-end Developer with a strong foundation in coding and problem-solving. My projects reflect both my technical growth and personal development. Committed to continuous learning, I stay updated with the latest trends and technologies in the industry. My primary focus is on building a career in Front-end Development.
+🌟 Front-end Developer with a strong foundation in coding and problem-solving. My projects reflect both my technical growth and personal development. Committed to continuous learning, I stay updated with the latest trends and technologies in the industry.
 
 ## 🛠️ Skills
 
-🎨 Front-end Development: HTML, CSS, JavaScript, ReactJS, Redux, jQuery, SCSS, API, Responsive Design
+🎨 Front-end Development: HTML, CSS, JavaScript, ReactJS, Redux, Redux Toolkit, jQuery, SCSS, Tailwind, API, Responsive Design
 ✨ Soft skills: Discipline, Responsibility, Hard work, Self-development, Fast-learner, Friendliness
 🌐 Languages: English, Georgian, Russian
 
