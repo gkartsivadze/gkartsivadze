@@ -8,9 +8,9 @@
 
 ## 🛠️ Skills
 
-🎨 Front-end Development: HTML, CSS, JavaScript, ReactJS, Redux, Redux Toolkit, jQuery, SCSS, Tailwind, API, Responsive Design \n
-✨ Soft skills: Discipline, Responsibility, Hard work, Self-development, Fast-learner, Friendliness \n
-🌐 Languages: English, Georgian, Russian
+#### 🎨 Front-end Development: HTML, CSS, JavaScript, ReactJS, Redux, Redux Toolkit, jQuery, SCSS, Tailwind, API, Responsive Design
+#### ✨ Soft skills: Discipline, Responsibility, Hard work, Self-development, Fast-learner, Friendliness
+#### 🌐 Languages: English, Georgian, Russian
 
 ## 🚧 Personal Projects
 
