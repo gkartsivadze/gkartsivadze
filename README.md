@@ -1,6 +1,6 @@
 # 👋 GIORGI KARTSIVADZE
 
-📧 giorgi.kartsivadze.2001@gmail.com • [LinkedIn](https://linkedin.com/in/gkartsivadze16)
+📧 giorgi.kartsivadze.2001@gmail.com • [LinkedIn](https://www.linkedin.com/in/gkartsivadze16)
 
 ## 🚀 Summary
 
